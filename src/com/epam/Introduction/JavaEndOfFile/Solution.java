@@ -1,4 +1,4 @@
-package com.epam.JavaEndOfFile;
+package com.epam.Introduction.JavaEndOfFile;
 
 import java.util.Scanner;
 

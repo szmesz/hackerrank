@@ -1,4 +1,4 @@
-package com.epam.JavaOutputFormatting;
+package com.epam.Introduction.JavaOutputFormatting;
 
 import java.util.Scanner;
 

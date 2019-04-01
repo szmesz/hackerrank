@@ -1,4 +1,4 @@
-package com.epam.JavaIfElse;
+package com.epam.Introduction.JavaIfElse;
 
 import java.util.Scanner;
 

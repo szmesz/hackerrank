@@ -1,4 +1,4 @@
-package com.epam.Introduction.JavaStdinAndStdout1;
+package com.epam.Introduction.JavaStdinAndSdtout1;
 
 import java.util.Scanner;
 

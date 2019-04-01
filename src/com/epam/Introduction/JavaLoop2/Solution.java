@@ -1,4 +1,4 @@
-package com.epam.JavaLoop2;
+package com.epam.Introduction.JavaLoop2;
 
 import java.util.Scanner;
 
