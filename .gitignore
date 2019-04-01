@@ -11,7 +11,7 @@
 .sts4-cache
 
 ### IntelliJ IDEA ###
-/out/production/hackerrank/com/epam
+D:\intellij-projects\hackerrank\out
 .idea
 *.iws
 *.iml
