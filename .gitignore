@@ -15,7 +15,7 @@
 *.iws
 *.iml
 *.ipr
- out/production/hackerrank/com/epam
+*.out/production/hackerrank/com/epam
 
 ### NetBeans ###
 /nbproject/private/
