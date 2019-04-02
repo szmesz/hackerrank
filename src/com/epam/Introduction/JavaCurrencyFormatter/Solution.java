@@ -4,6 +4,9 @@ import java.text.NumberFormat;
 import java.util.Locale;
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-currency-formatter/problem
+ * */
 public class Solution {
 
   public static void main(String[] args) {
