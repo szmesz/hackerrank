@@ -2,6 +2,9 @@ package com.epam.Introduction.JavaStaticInitializerBlock;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-static-initializer-block/problem
+ * */
 public class Solution {
 
   static int B;

@@ -2,6 +2,10 @@ package com.epam.Introduction.JavaIntToString;
 
 import java.util.*;
 import java.security.*;
+
+/**
+ * https://www.hackerrank.com/challenges/java-int-to-string/problem
+ * */
 public class Solution {
   public static void main(String[] args) {
 

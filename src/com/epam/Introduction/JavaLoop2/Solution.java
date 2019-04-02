@@ -2,6 +2,9 @@ package com.epam.Introduction.JavaLoop2;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-loops/problem
+ * */
 public class Solution {
 
   public static void main(String []argh){

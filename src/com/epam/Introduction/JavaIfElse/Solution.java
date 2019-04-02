@@ -2,6 +2,9 @@ package com.epam.Introduction.JavaIfElse;
 
 import java.util.Scanner;
 
+/**
+* https://www.hackerrank.com/challenges/java-if-else/problem
+* */
 public class Solution {
   private static final Scanner scanner = new Scanner(System.in);
 

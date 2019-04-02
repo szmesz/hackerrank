@@ -2,6 +2,10 @@ package com.epam.Introduction.JavaLoop1;
 
 import java.util.Scanner;
 
+/**
+ * https://www.hackerrank.com/challenges/java-loops-i/problem
+ */
+
 public class Solution {
   private static final Scanner scanner = new Scanner(System.in);
 

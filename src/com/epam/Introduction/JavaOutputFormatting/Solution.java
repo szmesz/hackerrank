@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Solution {
 
+  /**
+  * https://www.hackerrank.com/challenges/java-output-formatting/problem
+  * */
   public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
     System.out.println("================================");
