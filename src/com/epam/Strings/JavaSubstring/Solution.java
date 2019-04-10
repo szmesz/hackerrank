@@ -1,4 +1,4 @@
-package Strings.JavaSubstring;
+package com.epam.Strings.JavaSubstring;
 
 import java.util.*;
 
