@@ -1,7 +1,9 @@
 package com.epam.Introduction.JavaDatatypes;
 import java.util.*;
-import java.io.*;
 
+/**
+ * https://www.hackerrank.com/challenges/java-datatypes/problem
+ * */
 class Solution{
   public static void main(String []argh)
   {
