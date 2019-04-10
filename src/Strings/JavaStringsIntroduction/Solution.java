@@ -1,4 +1,4 @@
-package com.epam.Strings.JavaStringsIntroduction;
+package Strings.JavaStringsIntroduction;
 
 import java.util.*;
 
